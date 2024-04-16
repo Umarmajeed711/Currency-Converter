@@ -1,0 +1,21 @@
+{
+  "name": "um-currency-converter",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "um-currency-converter": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M.Umar",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
